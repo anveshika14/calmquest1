@@ -19,3 +19,4 @@ CSS3 – Custom styles with animations and responsiveness
 
 JavaScript – UI interactions and local storage for journaling/mood tracking
 
+# Screenshot
