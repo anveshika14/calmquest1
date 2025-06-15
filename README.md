@@ -13,10 +13,11 @@ CalmQuest is a frontend-only web application focused on mental wellness and mind
 
 💡 Self-care tips and inspiration cards
 
+<h3>Tech Stack</h3>
 HTML5 – Page structure and semantic layout
 
 CSS3 – Custom styles with animations and responsiveness
 
 JavaScript – UI interactions and local storage for journaling/mood tracking
-
-# Screenshot
+<h3>Screenshot</h3>
+![WhatsApp Image 2025-04-23 at 22 04 39_3c906914](https://github.com/user-attachments/assets/71e5a589-74cb-4873-ad90-5f689182c2d9)
